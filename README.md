@@ -24,9 +24,8 @@ Featuring:
 - Open source contributions incoming 👀
 
 ## 📫 Let's connect!
-- 🌐 [Portfolio](https://your-portfolio.com) *(replace this with yours)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter](https://twitter.com/yourhandle) *(optional)*
+- 🌐 [Portfolio]
+- 💼 [LinkedIn](https://linkedin.com/in/amanda-robles-urena)
 - 📬 DM me or fork a repo, I'm always up for a good tech chat.
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
