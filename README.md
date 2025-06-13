@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm mandy9408
 
-<!--
-**mandy9408/mandy9408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building web apps that actually *work* and make life easier.  
+🛠️ Full-stack web developer specialized in **Vue.js**, **Node.js**, and **MySQL**.  
+🌍 Based in Europe, with a couple of years living in Belgium 🇧🇪 (oui, je parle un peu français 🇫🇷).
 
-Here are some ideas to get you started:
+## 👨‍💻 What I do
+- Craft smooth frontends with Vue.js ⚡
+- Build solid REST APIs with Node.js & Express 🛠️
+- Tame SQL beasts with Sequelize & MySQL 🐬
+- Respect the linter (unless it gets too sassy) 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently working on
+**BBlog** – a daycare management app 🍼  
+Featuring:
+- Admin & parent roles  
+- Baby data tracking  
+- Group & event management  
+- Secure login system with JWT 💥
+
+## 🎯 Goals
+- Keep learning (always 📚)
+- Build real, useful stuff
+- Open source contributions incoming 👀
+
+## 📫 Let's connect!
+- 🌐 [Portfolio](https://your-portfolio.com) *(replace this with yours)*
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🐦 [Twitter](https://twitter.com/yourhandle) *(optional)*
+- 📬 DM me or fork a repo, I'm always up for a good tech chat.
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
