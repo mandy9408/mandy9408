@@ -4,26 +4,6 @@
 🛠️ Full-stack web developer specialized in Java , SpringBoot,  **Vue.js**, **Node.js**, and **MySQL**.  
 🌍 Based in Spain.
 
-## 👨‍💻 What I do
-- Craft smooth frontends with Vue.js ⚡
-- Build solid REST APIs with Node.js & Express 🛠️
-- Tame SQL beasts with Sequelize & MySQL 🐬
-- Respect the linter (unless it gets too sassy) 😅
-
-## 🧠 Currently working on
-**BBlog** – a daycare management app 🍼  
-Featuring:
-- Admin & parent roles  
-- Baby data tracking  
-- Group & event management  
-- Secure login system with JWT 💥
-
-## 🎯 Goals
-- Keep learning (always 📚)
-- Build real, useful stuff
-- Open source contributions incoming 👀
-
 ## 📫 Let's connect!
 - 🌐 [Portfolio]
 - 💼 [LinkedIn](https://linkedin.com/in/amanda-robles-urena)
-- 📬 DM me or fork a repo, I'm always up for a good tech chat.
